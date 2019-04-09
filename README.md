@@ -29,15 +29,15 @@ After installing, navigate to a new or existing Azure DevOps build pipeline, fro
 
 Below is a summary of each task, click on a header to view more information on [the wiki](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki).
 
-### [Dynamics 365: Combine Static and Templated PackageDeployer Artefacts](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki/Usage#Dynamics-365:-Combine-Static-and-Templated-PackageDeployer-Artefacts)
+### [Dynamics 365: Combine Static and Templated PackageDeployer Artefacts](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki/Usage#Dynamics-365-Combine-Static-and-Templated-PackageDeployer-Artefacts)
 
 Combines the static files provided by Microsoft with templated files to generate a releasable Package Deployer artefact. PackageDeployer provides a repeatable way of releasing Dynamics 365 solutions and release artefacts, that is provided through the Dynamics 365 SDK.
 
-### [Dynamics 365: Update solution.xml Version to Build Number](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki/Usage#Dynamics-365:-Update-solution.xml-Version-to-Build-Number)
+### [Dynamics 365: Update solution.xml Version to Build Number](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki/Usage#Dynamics-365-Update-solutionxml-Version-to-Build-Number)
 
 Task that can update the version number stored in the solution.xml file for extracted Dynamics solutions.
 
-### [Dynamics 365: Update Unmanaged Solution Version](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki/Usage#Dynamics-365:-Update-Unmanaged-Solution-Version)
+### [Dynamics 365: Update Unmanaged Solution Version](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki/Usage#Dynamics-365-Update-Unmanaged-Solution-Version)
 
 Task that connects to a Dynamics 365 instance and updates the Version Number of a Solution.
 
