@@ -1,8 +1,12 @@
 # Azure.DevOps.Extension.Xrm.Build
 
+**Build Status**: ![Build Status](https://capgeminiuk.visualstudio.com/GitHub%20Support/_apis/build/status/CI-Builds/Azure%20DevOps%20Extensions/devops-xrmbuild-extensions-CI-Build?branchName=master)
+
+**Release Status**: ![Release Status](https://capgeminiuk.vsrm.visualstudio.com/_apis/public/Release/badge/d743f9d4-7dae-476e-a963-f038f994a35d/1/3)
+
 ## Description
 
-The Azure.DevOps.Extension.Xrm.Build extension provides tasks for use in Azure DevOps build pipelines. These tasks enable a Continuous Integration pipeline to be created for Dynamics 365.
+The Azure.DevOps.Extension.Xrm.Build extension provides tasks for use in Azure DevOps build pipelines. These tasks enable a Continuous Integration pipeline to be created for Dynamics 365. For tasks for a release pipeline, please see [Azure.DevOps.Extension.Xrm.Release](https://github.com/Capgemini/azure-devops-extension-xrm-release).
 
 **Tasks:**
 
@@ -43,7 +47,7 @@ Task that connects to a Dynamics 365 instance and updates the Version Number of 
 
 ## Contributing
 
-All contributions will be appreciated. 
+Source Code will be made available shortly. All contributions will be appreciated. 
 
 To contact us, please email [nuget.uk@capgemini.com](mailto:nuget.uk@capgemini.com).
 
