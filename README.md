@@ -2,7 +2,7 @@
 
 ## Description
 
-Azure.DevOps.Extension.Xrm.Build provides tasks for use in Azure DevOps build pipelines. These tasks enable a Continuous Integration pipeline to be created for Dynamics 365.
+The Azure.DevOps.Extension.Xrm.Build extension provides tasks for use in Azure DevOps build pipelines. These tasks enable a Continuous Integration pipeline to be created for Dynamics 365.
 
 **Tasks:**
 
@@ -25,9 +25,9 @@ Navigate to and install [the extension](https://marketplace.visualstudio.com/ite
 
 ## Usage
 
-After installing, navigate to a new or existing Azure DevOps build pipeline, from there any of the following tasks should be available to be added and configured.
+After installing, navigate to a new or existing Azure DevOps build pipeline, from there the following tasks should be available to be added and configured.
 
-Below is a summary of each task, click on a header to view more information on [the wiki](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki).
+Below is a summary of each task, click on the task name to view more information on [the wiki](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki).
 
 ### [Dynamics 365: Combine Static and Templated PackageDeployer Artefacts](https://github.com/Capgemini/azure-devops-extension-xrm-build/wiki/Usage#Dynamics-365-Combine-Static-and-Templated-PackageDeployer-Artefacts)
 
@@ -55,4 +55,4 @@ These tasks use the excellent [Microsoft.Xrm.Data.Powershell](https://github.com
 
 ## License
 
-MIT
+[MIT](https://github.com/Capgemini/azure-devops-extension-xrm-build/blob/master/LICENSE)
