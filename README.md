@@ -1,3 +1,5 @@
+# Proposed Deprecate now that Microsoft are releasing their own PowerApps tools
+
 # Azure.DevOps.Extension.Xrm.Build
 
 **Build Status**: ![Build Status](https://capgeminiuk.visualstudio.com/GitHub%20Support/_apis/build/status/CI-Builds/Azure%20DevOps%20Extensions/devops-xrmbuild-extensions-CI-Build?branchName=master)
