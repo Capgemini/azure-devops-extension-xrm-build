@@ -1,4 +1,4 @@
-# Proposed Deprecate now that Microsoft are releasing their own PowerApps tools
+## Proposed Deprecate now that Microsoft are releasing their own PowerApps tools
 
 # Azure.DevOps.Extension.Xrm.Build
 
